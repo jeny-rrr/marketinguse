@@ -1,0 +1,3 @@
+﻿display_name: LTK Leaderboard
+short_description: Register LTK campaign and Leaderboard data into the Feishu promotion workbook.
+default_prompt: Collect LTK creator or post data and register it into Feishu using the workbook header color and BD assignment rules.
